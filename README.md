@@ -1,7 +1,7 @@
 📚 Project Description
 This project creates a BankAccount class where:
 
-Each account has its own owner name and balance.
+Each account has its owner's name and balance.
 
 The total number of accounts and the total balance across all accounts are tracked using static members.
 
@@ -21,25 +21,6 @@ C++
 
 Object-Oriented Programming (OOP) Concepts
 
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/BankAccount-StaticMembers.git
-Open the project in your C++ IDE or use the terminal.
-
-Compile the file:
-
-Copy
-Edit
-g++ -o bankAccount BankAccount.cpp
-Run the program:
-
-bash
-Copy
-Edit
-./bankAccount
 ✨ Author
 Usman
